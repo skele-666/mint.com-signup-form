@@ -57,11 +57,13 @@ form button {
     box-shadow:rgba(0, 0, 0, 0.75) 0px 1px 1px 0px;
     margin: 0 0 40px 0;
     font-size: 15px;
+    text-align: center;
+    line-height: 45px;
 }
 
 form button img {
     position: relative;
-    top: 3px;
+    top: 10px;
     padding-right: 3px;
 }
 
