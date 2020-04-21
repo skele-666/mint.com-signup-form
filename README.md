@@ -1,1 +1,1 @@
-This project consisted of building a form that replicates mint.com\'92s signup page, and building a working form.
+This project consisted of building a form that replicates mint.com's signup page, and building a working form.
